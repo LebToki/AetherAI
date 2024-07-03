@@ -4,6 +4,8 @@ Unleash the Power of Local AI
 ## Description:
 AetherAI is a cutting-edge application designed to bring the power of AI directly to your desktop. With AetherAI, you can leverage the latest models from Hugging Face, ensuring fast and secure inference without relying on third-party services. Whether you're a developer, researcher, or enthusiast, AetherAI provides a seamless experience for chat and file interactions, all within a sleek and user-friendly interface.
 
+![Early Teaser](https://github.com/LebToki/AetherAI/assets/957618/c4655d1f-ef99-4977-9e42-71c72f4ef8cc)
+
 ### Key Features:
 - **Local Model Hosting**: Download and run AI models directly on your machine for unmatched speed and privacy.
 - **Versatile Interactions**: Engage in dynamic conversations and process documents with ease.
