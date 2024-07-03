@@ -6,6 +6,7 @@ AetherAI is a cutting-edge application designed to bring the power of AI directl
 
 ![Early Teaser](https://github.com/LebToki/AetherAI/assets/957618/c4655d1f-ef99-4977-9e42-71c72f4ef8cc)
 ![Almost there](https://github.com/LebToki/AetherAI/assets/957618/0c825329-4ca9-4f7c-8901-0c5f286b31bb)
+![image](https://github.com/LebToki/AetherAI/assets/957618/76a965e3-c0ce-4454-a7fe-fbff8a53fe84)
 
 
 ### Key Features:
