@@ -20,3 +20,39 @@ AetherAI is a cutting-edge application designed to bring the power of AI directl
 - **Package as Electron App**: Wrap the application in an Electron package for cross-platform desktop use.
 - **Testing and Optimization**: Ensure the application runs smoothly and efficiently across various systems.
 - **Documentation and Release**: Provide comprehensive documentation and prepare for the official release of AetherAI.
+
+## License
+
+<p xmlns:cc="http://creativecommons.org/ns#" >This work by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://2tinteractive">Tarek Tarabichi</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
+
+## Contributing
+
+We welcome contributions! Please read the [CONTRIBUTING](CONTRIBUTING.md) guidelines before submitting a pull request.
+
+
+## Contact
+
+For any questions or feedback, please open an issue in this repository.
+
+---
+#  Get Involved
+Whether you're a developer, system integrator, or enterprise user, you can trust that we did everything possible to make it as smooth and easy as 1,2,3 to set up AetherAI.
+
+⭐ Give us a star on GitHub 👆
+
+⭐ Fork the project on GitHub and contribute👆
+
+🚀 Do you like to code? You're more than welcome to contribute Join the Discussions!
+
+💡 Got a feature suggestion? Add your roadmap ideas
+
+<br/>
+
+This project is licensed under the Attribution License.
+
+2024 · Tarek Tarabichi from 2TInteractive.com · Made with 💙
+
+Thank you for using AetherAI!
+
+We hope you find it useful and look forward to your contributions.
+
